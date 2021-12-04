@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+.body {
+    background-image: url("");
+}
+
 .title1 {
     text-align: center;
 }
