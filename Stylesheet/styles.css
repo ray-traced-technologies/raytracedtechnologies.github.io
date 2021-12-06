@@ -4,6 +4,11 @@ body {
     background-image: url("../GenericImages/backgroundimage.jpg");
 }
 
+footer {
+    font-family: "Trebuchet MS";
+    padding: 5px;
+}
+
 nav ul {
     display: flex;
     justify-content: space-around;
