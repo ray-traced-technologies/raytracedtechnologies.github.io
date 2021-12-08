@@ -39,6 +39,8 @@ div {
     padding: 5px;
     display: grid;
     height: 100%;
+    max-width: 70%;
+    max-height: 70%;
 }
 
 .center-fit {
@@ -50,4 +52,11 @@ div {
 .translucent {
     background-color: #fff;
     background-color: rgba(255, 255, 255, 0.5);
+}
+
+.translucent2 {
+    background-color: #fff;
+    background-color: rgba(255, 255, 255, 0.5);
+    max-width: 90%;
+    max-height: 70%;
 }
